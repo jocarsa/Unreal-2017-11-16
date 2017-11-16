@@ -442,3 +442,8 @@ LogInit: Object subsystem initialized
 [2017.11.16-17.37.56:655][846]LogSavePackage: Save=27.05ms
 [2017.11.16-17.37.56:655][846]LogSavePackage: Moving 'E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Saved/inicjo004663C84CFDA3B18CA7BEAD6BB72B34.tmp' to 'E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Content/Maps/inicjo.umap'
 [2017.11.16-17.37.56:656][846]LogSavePackage: Display: Finished SavePackage E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Content/Maps/inicjo.umap
+[2017.11.16-17.40.17:954][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mono)
+[2017.11.16-17.40.21:673][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/inicjo" FILE="E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Content/Maps/inicjo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.16-17.40.21:706][582]LogSavePackage: Save=23.97ms
+[2017.11.16-17.40.21:706][582]LogSavePackage: Moving 'E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Saved/inicjo559BBBD54E39BC3E44486CB1CDB287ED.tmp' to 'E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Content/Maps/inicjo.umap'
+[2017.11.16-17.40.21:708][582]LogSavePackage: Display: Finished SavePackage E:/UE4_Projects/Arquinteractiva/Github/Unreal-2017-11-16/Content/Maps/inicjo.umap
